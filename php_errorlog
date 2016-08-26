@@ -1,0 +1,57 @@
+[24-Jun-2015 02:28:38 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/oneminpl/public_html/test/sampleoutput.php on line 23
+[24-Jun-2015 02:28:42 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/oneminpl/public_html/test/sampleoutput.php on line 23
+[24-Jun-2015 02:33:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /home/oneminpl/public_html/test/sampleoutput.php on line 15
+[24-Jun-2015 02:34:36 America/Chicago] PHP Fatal error:  Cannot use [] for reading in /home/oneminpl/public_html/test/sampleoutput.php on line 8
+[24-Jun-2015 03:49:09 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/oneminpl/public_html/test/functions.php on line 40
+[24-Jun-2015 03:49:23 America/Chicago] PHP Parse error:  syntax error, unexpected '.=' (T_CONCAT_EQUAL) in /home/oneminpl/public_html/test/functions.php on line 41
+[24-Jun-2015 03:49:44 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/oneminpl/public_html/test/functions.php on line 42
+[24-Jun-2015 04:19:18 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/oneminpl/public_html/test/sampleoutput.php on line 96
+[24-Jun-2015 04:19:38 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/oneminpl/public_html/test/functions.php on line 73
+[24-Jun-2015 04:19:59 America/Chicago] PHP Fatal error:  Call to undefined function transportHTML() in /home/oneminpl/public_html/test/sampleoutput.php on line 94
+[24-Jun-2015 11:25:23 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/oneminpl/public_html/test/functions.php on line 110
+[24-Jun-2015 11:36:12 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oneminpl/public_html/test/sampleoutput.php on line 387
+[24-Jun-2015 23:08:38 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/oneminpl/public_html/test/sampleoutput.php on line 65
+[24-Jun-2015 23:46:49 America/Chicago] PHP Parse error:  syntax error, unexpected '$walkdist' (T_VARIABLE) in /home/oneminpl/public_html/test/sampleoutput.php on line 141
+[27-Jun-2015 11:14:16 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oneminpl/public_html/test/process.php on line 648
+[27-Jun-2015 11:38:43 America/Chicago] PHP Fatal error:  Cannot redeclare displayTime() (previously declared in /home/oneminpl/public_html/test/functions.php:2) in /home/oneminpl/public_html/test/functions.php on line 11
+[27-Jun-2015 11:39:22 America/Chicago] PHP Fatal error:  Cannot redeclare displayTime() (previously declared in /home/oneminpl/public_html/test/functions.php:2) in /home/oneminpl/public_html/test/functions.php on line 11
+[29-Jun-2015 01:22:13 America/Chicago] PHP Parse error:  syntax error, unexpected '$starttime' (T_VARIABLE) in /home/oneminpl/public_html/test/process.php on line 516
+[29-Jun-2015 21:36:39 America/Chicago] PHP Fatal error:  Cannot redeclare displayTime() (previously declared in /home/oneminpl/public_html/test/functions.php:2) in /home/oneminpl/public_html/test/functions.php on line 11
+[29-Jun-2015 23:25:37 America/Chicago] PHP Parse error:  syntax error, unexpected '"</div><!-- #accordion .panel-' (T_CONSTANT_ENCAPSED_STRING) in /home/oneminpl/public_html/test/samplesuggestions.php on line 69
+[03-Jul-2015 11:42:21 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/oneminpl/public_html/test/functions.php on line 195
+[03-Jul-2015 12:11:26 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oneminpl/public_html/test/functions.php on line 333
+[11-Aug-2015 05:50:07 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oneminpl/public_html/test/functions.php on line 450
+[11-Aug-2015 05:51:17 America/Chicago] PHP Fatal error:  Call to undefined function displayTime() in /home/oneminpl/public_html/test/process.php on line 389
+[11-Aug-2015 05:58:20 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/oneminpl/public_html/test/functions.php on line 38
+[13-Aug-2015 04:08:35 America/Chicago] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/oneminpl/public_html/test/process.php on line 107
+[13-Aug-2015 04:37:35 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oneminpl/public_html/test/functions.php on line 594
+[13-Aug-2015 06:36:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/oneminpl/public_html/test/process.php on line 362
+[16-Aug-2015 08:41:39 America/Chicago] PHP Parse error:  syntax error, unexpected ']' in /home/oneminpl/public_html/test/gen_itin.php on line 380
+[09-Sep-2015 01:41:33 America/Chicago] PHP Parse error:  syntax error, unexpected '$itin_node_ids' (T_VARIABLE) in /home/oneminpl/public_html/test/process.php on line 177
+[07-Oct-2015 21:07:17 America/Chicago] PHP Parse error:  syntax error, unexpected 'array_key_exists' (T_STRING), expecting '(' in /home/oneminpl/public_html/test/handle_user_data.php on line 71
+[07-Oct-2015 21:07:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'array_key_exists' (T_STRING), expecting '(' in /home/oneminpl/public_html/test/handle_user_data.php on line 71
+[07-Oct-2015 21:07:42 America/Chicago] PHP Parse error:  syntax error, unexpected 'array_key_exists' (T_STRING), expecting '(' in /home/oneminpl/public_html/test/handle_user_data.php on line 71
+[10-Oct-2015 15:02:20 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oneminpl/public_html/test/process.php on line 407
+[10-Oct-2015 15:16:46 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/oneminpl/public_html/test/functions.php on line 765
+[10-Oct-2015 15:19:28 America/Chicago] PHP Fatal error:  Call to undefined function displayTime() in /home/oneminpl/public_html/test/process.php on line 661
+[10-Oct-2015 15:19:29 America/Chicago] PHP Fatal error:  Call to undefined function displayTime() in /home/oneminpl/public_html/test/process.php on line 661
+[10-Oct-2015 15:19:41 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 267124739 bytes) in /home/oneminpl/public_html/test/functions.php on line 794
+[10-Oct-2015 15:19:45 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 267124739 bytes) in /home/oneminpl/public_html/test/functions.php on line 794
+[10-Oct-2015 15:20:18 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 267124739 bytes) in /home/oneminpl/public_html/test/functions.php on line 794
+[10-Oct-2015 15:20:22 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 267124739 bytes) in /home/oneminpl/public_html/test/functions.php on line 794
+[10-Oct-2015 15:20:40 America/Chicago] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 266338283 bytes) in /home/oneminpl/public_html/test/functions.php on line 794
+[12-Oct-2015 18:27:26 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/oneminpl/public_html/test/functions.php on line 464
+[12-Oct-2015 21:58:38 America/Chicago] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/oneminpl/public_html/test/process.php on line 735
+[12-Oct-2015 22:04:14 America/Chicago] PHP Parse error:  syntax error, unexpected '$photo' (T_VARIABLE) in /home/oneminpl/public_html/test/functions.php on line 97
+[12-Oct-2015 22:04:18 America/Chicago] PHP Parse error:  syntax error, unexpected '$photo' (T_VARIABLE) in /home/oneminpl/public_html/test/functions.php on line 97
+[29-Nov-2015 18:35:03 America/Chicago] PHP Fatal error:  Cannot redeclare get_edge() (previously declared in /home/oneminpl/public_html/test2/functions.php:866) in /home/oneminpl/public_html/test2/gen_itin2.php on line 814
+[30-Nov-2015 22:07:35 America/Chicago] PHP Fatal error:  Cannot redeclare get_edge() (previously declared in /home/oneminpl/public_html/test2/functions.php:861) in /home/oneminpl/public_html/test2/gen_itin.php on line 733
+[30-Nov-2015 22:08:24 America/Chicago] PHP Fatal error:  Cannot redeclare get_edge() (previously declared in /home/oneminpl/public_html/test2/functions.php:861) in /home/oneminpl/public_html/test2/gen_itin.php on line 733
+[07-Dec-2015 15:20:04 America/Chicago] PHP Fatal error:  Call to undefined function displayTime() in /home/oneminpl/public_html/test2/process.php on line 665
+[07-Dec-2015 15:20:05 America/Chicago] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/oneminpl/public_html/test2/functions.php on line 515
+[07-Dec-2015 15:21:20 America/Chicago] PHP Fatal error:  Call to undefined function displayTime() in /home/oneminpl/public_html/test2/process.php on line 665
+[07-Dec-2015 15:21:22 America/Chicago] PHP Fatal error:  Call to undefined function displayTime() in /home/oneminpl/public_html/test2/process.php on line 665
+[07-Dec-2015 17:06:37 America/Chicago] PHP Fatal error:  Call to undefined function displayTime() in /home/oneminpl/public_html/test2/process.php on line 666
+[07-Dec-2015 17:48:59 America/Chicago] PHP Fatal error:  Cannot redeclare displayTime() (previously declared in /home/oneminpl/public_html/test2/functions.php:2) in /home/oneminpl/public_html/test2/functions.php on line 11
+[07-Dec-2015 17:49:57 America/Chicago] PHP Fatal error:  Cannot redeclare displayAttraction() (previously declared in /home/oneminpl/public_html/test2/ta_functions.php:16) in /home/oneminpl/public_html/test2/ta_functions.php on line 60
+[07-Dec-2015 23:04:43 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/oneminpl/public_html/test2/process.php on line 408
